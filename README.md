@@ -50,13 +50,19 @@ An AI-powered interview preparation platform designed to help students and fresh
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:nikhilsharmaa9028@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nikhilsharma-codes">
+  <a href="https://github.com/nikhilsharma-codes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your actual LinkedIn profile URL here -->
+  <a href="https://www.linkedin.com/in/nikhilsharma-codes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nikhilsharmaa9028@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  www.linkedin.com/in/nikhilsharma-codes
 </p>
 
 ---
