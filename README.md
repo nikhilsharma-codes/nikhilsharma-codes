@@ -50,9 +50,6 @@ An AI-powered interview preparation platform designed to help students and fresh
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/nikhilsharma-codes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/nikhilsharma-codes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -62,7 +59,6 @@ An AI-powered interview preparation platform designed to help students and fresh
 </p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  www.linkedin.com/in/nikhilsharma-codes
 </p>
 
 ---
